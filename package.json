@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/upgradeadvice/node-stratum-pool.git"
+        "url": "https://github.com/yyiu/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "upgradeadvice/node-multi-hashing",
+        "multi-hashing": "yyiu/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
